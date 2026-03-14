@@ -1,0 +1,14 @@
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+
+start.bat
+run.bat
+run.sh
+
+*.log
